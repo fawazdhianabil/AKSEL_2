@@ -1,0 +1,16 @@
+streamlit
+streamlit_option_menu
+numpy
+pandas
+matplotlib
+seaborn
+nlp-id
+regex
+google-play-scraper
+app-store-scraper
+nltk
+requests
+wordcloud
+fpdf
+Pillow
+streamlit-extras
